@@ -1,1 +1,1 @@
-This is a img slider using react and css
+View this website on https://future-animations-k9ym.vercel.app/
